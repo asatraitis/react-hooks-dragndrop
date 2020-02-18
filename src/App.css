@@ -60,6 +60,9 @@
   margin-bottom: .5rem;
   font-size: 1.5rem;
 }
+.current {
+  background-color: #282c34;
+}
 
 .App-link {
   color: #61dafb;
